@@ -2,11 +2,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=++𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝐀𝐒𝐓𝐀++"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐀𝐒𝐓𝐀 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓𝐒</b></h1>
-<p align="center"><a href="https://t.me/ixasta"><img src="https://files.catbox.moe/n8ae2o.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/SUKOON_ALL_DP"><img src="https://files.catbox.moe/n8ae2o.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
-<b>![𝐀𝐒𝐓𝐀 𝐁𝐎𝐓](https://t.me/ixasta1")</b>
+<b>![𝐀𝐒𝐓𝐀 𝐁𝐎𝐓](https://t.me/SUKOON_ALL_DP")</b>
 
 ### 𝗩ɪsɪᴛᴏʀs 🍹
 <h3 align="center">
@@ -43,13 +43,13 @@
 
 <details>
 <summary><b>𝗦𝗨𝗣𝗣𝗢𝗥𝗧</b></b></summary>
-<a href="https://t.me/ixasta1"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/SUKOON_ALL_DP"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <details>
 <summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></b></summary>
-<a href="https://t.me/iamakki001"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/SUKOON_ALL_DP"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
